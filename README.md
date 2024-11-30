@@ -1,4 +1,4 @@
-# clu.ng - README
+# clu.ng - README >> Preview: https://clu.ng
 
 ## Overview
 This project is a personalized and interactive profile page built using HTML, CSS, and JavaScript. It features dynamic effects, a real-time Discord profile tracker, badges, and a snow effect for a unique user experience. The project is designed to showcase a stylish and modern profile interface with interactive elements and smooth animations.
